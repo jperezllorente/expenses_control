@@ -6,3 +6,4 @@ port = $PORT\n\
 enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
+rm -i ~/.streamlit.toml
